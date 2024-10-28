@@ -16,7 +16,7 @@ Express.js – Web framework to handle routes and HTTP requests.
 Frontend:
 EJS (Embedded JavaScript Templates) – For rendering dynamic HTML templates.
 
-Database (In-memory or Placeholder):
+Database :
 In-Memory Array or Object – We are storing posts in a temporary data structure (array), not using a full database yet.
 
 HTTP Methods Used for CRUD Operations:
